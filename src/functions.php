@@ -1,5 +1,5 @@
 <?php
 function darSaludo(): string
 {
-    return "Un saludo chicos";
+    return "Un saludo para todos";
 }
