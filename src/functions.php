@@ -7,5 +7,5 @@ function darSaludo(): string
 
 function returnMessage(): string
 {
-    return "Este mensaje es para todos los usuarios de Git";
+    return "Este mensaje es para los maravillosos usuarios de Git";
 }
