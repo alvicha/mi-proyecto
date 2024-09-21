@@ -1,7 +1,7 @@
 <?php
 function darSaludo(): string
 {
-    return "Un saludo para todos";
+    return "Un saludo para todos los amantes del futbol";
 }
 
 
